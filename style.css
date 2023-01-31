@@ -1,0 +1,21 @@
+nav,article{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: palevioletred;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+li{
+    font-weight: bold;
+    color: red;
+}
